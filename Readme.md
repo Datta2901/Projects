@@ -1,7 +1,7 @@
 ### Projects and mini Projects 
 
 #### Web Development
-* Covid 19 status [(Source code)](https://github.com/Datta2901/Covid-19-Status) [(Live)](covid-19-data-status.herokuapp.com/) 
+* Covid 19 status [(Source code)](https://github.com/Datta2901/Covid-19-Status) [(Live)](https://covid-19-data-status.herokuapp.com/) 
 
 * Car Rental Management System [(Source code)](https://github.com/Datta2901/Car-Rental-Management-System)
   

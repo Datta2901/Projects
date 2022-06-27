@@ -34,3 +34,5 @@
 * Optum-Stratethon [(Source code)](https://github.com/TeamDejavu/Optum-Stratethon)
   
 * Hack with Us [(Source code)](https://github.com/TLE-SRM/HACK_WITH_US)  [(Live)](https://tle-srm.github.io/HACK_WITH_US/projectTLE.html)
+
+* IIT Kharagpur Data Science Hackathon2 [(source code)](https://github.com/TeamDejavu/Data_science)

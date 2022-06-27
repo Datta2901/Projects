@@ -7,7 +7,7 @@
   
 #### Machine Learning
 
-* Iris Classification [(Source code)](https://github.com/Datta2901/Iris) [(Live)](irisdeploy1.herokuapp.com/)
+* Iris Classification [(Source code)](https://github.com/Datta2901/Iris) [(Live)](https://irisdeploy1.herokuapp.com/)
 
 * Covid 19 Symptom Predictor [(Source code)](https://github.com/Datta2901/Covid_19_Symptom_Predictor) [(Live)](https://covid-19-symptom-predictor.herokuapp.com/)  
 
